@@ -6,4 +6,4 @@ AUTHOR This Dashboard is created by Antara Gupta.
 
 Source:https://github.com/Antara25-10/Social-Media-Dashboard-with-theme-switcher
 
-Deployed Link:https://antara25-10.github.io/Initial-Portfolio/
+Deployed Link:https://antara25-10.github.io/Social-Media-Dashboard-with-theme-switcher/
